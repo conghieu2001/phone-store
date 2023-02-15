@@ -1,0 +1,18 @@
+#logo {
+    width: 5rem;
+    border-radius: 50%;
+}
+.icon-logout {
+    width: 7%;
+    height: 42px;
+    margin-right: 30px;
+    background-color: #FFACC7;
+    text-align: center;
+    border-radius: 3px;
+    color: #000;
+    text-decoration: none;
+}
+.icon-logout p {
+    padding-top: 10px;
+    font-weight: bold;
+}
